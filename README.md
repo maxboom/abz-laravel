@@ -13,8 +13,6 @@
 * TinyPNG API
 * Laravel Form Request, Seeder, Migration, Storage
 
----
-
 ## 📦 Установка
 
 ```bash
