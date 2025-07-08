@@ -31,7 +31,7 @@ php artisan key:generate
 ```dotenv
 DB_DATABASE=abz
 DB_USERNAME=root
-DB_PASSWORD=
+DB_PASSWORD=password
 
 TINIFY_KEY=your_tinypng_key_here
 JWT_SECRET=your_jwt_key_here
@@ -49,8 +49,7 @@ JWT_SECRET=your_jwt_key_here
 
 ## 📸 Обработка изображений
 - Загружаются .jpg/.jpeg файлы до 5MB
-- Обрезаются до 70x70 (Intervention Image)
-- Оптимизируются через [TinyPNG API](https://tinypng.com/)
+- Оптимизируются и обрезаются до 70x70 через [TinyPNG API](https://tinypng.com/)
 - Сохраняются в ```public/uploads/photos/```
 
 ## 🔐 Авторизация
@@ -76,7 +75,7 @@ JWT_SECRET=your_jwt_key_here
 
 ## 👤 Автор
 Kirill Kramarenko, Kyiv
-
+<br>
 Email [zmaxboomz@gmail.com](zmaxboomz@gmail.com)
-
+<br>
 Github: https://github.com/maxboom/abz-laravel
