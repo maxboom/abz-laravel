@@ -6,7 +6,7 @@
 
 ## 🔧 Стек технологий
 
-* Laravel 10
+* Laravel 12
 * PHP 8.2
 * MySQL / MariaDB
 * Blade + JS (Vanilla)
