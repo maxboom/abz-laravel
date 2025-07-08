@@ -25,7 +25,7 @@ php artisan key:generate
 
 ## ⚙️ Настройка
 
-В ```.env``` добавьте настройки БД и ключ для TinyPNG:
+В ```.env``` добавьте настройки БД, JWT секрет и ключ для TinyPNG:
 ```dotenv
 DB_DATABASE=abz
 DB_USERNAME=root
@@ -74,6 +74,6 @@ JWT_SECRET=your_jwt_key_here
 ## 👤 Автор
 Kirill Kramarenko, Kyiv
 <br>
-Email [zmaxboomz@gmail.com](zmaxboomz@gmail.com)
+Email [zmaxboomz@gmail.com](mailto:zmaxboomz@gmail.com)
 <br>
 Github: https://github.com/maxboom/abz-laravel
