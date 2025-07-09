@@ -12,7 +12,7 @@
 * Blade + JS (Vanilla)
 * TinyPNG API
 * Laravel Form Request, Seeder, Migration, Storage
-
+* [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) (Случайные фото для генерации пользователей)
 ## 📦 Установка
 
 ```bash
